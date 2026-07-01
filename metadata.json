@@ -1,0 +1,6 @@
+{
+  "name": "喝水打卡",
+  "description": "一款精致、健康的喝水打卡记录工具，帮助你保持水分充足。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
